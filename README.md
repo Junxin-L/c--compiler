@@ -1,2 +1,2 @@
 # c--compiler
- Compilers for compiling C-- languages.
+ Compilers for compiling C-- language.
