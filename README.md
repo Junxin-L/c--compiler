@@ -29,6 +29,3 @@ For example:
 ```
 
 
-
-
-
